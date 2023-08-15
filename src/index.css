@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  display: inline;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  /* background-image: radial-gradient(circle 975px at 2.6% 48.3%, rgba(0, 8, 120, 1) 0%, rgba(95, 184, 224, 1) 99.7%); */
+  color: white;
+  /* background-image: linear-gradient(to right, #434343 0%, black 100%) !important; */
+  background-image: radial-gradient( circle 976px at 51.2% 51%,  rgba(11,27,103,1) 0%, rgba(24, 180, 252, 0.719) 0%, rgba(11,27,103,1) 17.3%, rgba(11,27,103,1) 58.8%, rgba(11,27,103,1) 71.4%, rgba(16,66,157,1) 100.2%, rgba(187,187,187,1) 100.2% ) !important;
+  /* background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(255, 209, 67, 1) 0%, rgba(255, 145, 83, 1) 90%) !important; */
+  /* background-image: linear-gradient(to left, #09203f 0%, #537895 100%) !important; */
+  /* background-image: linear-gradient( 109.6deg,  rgba(118,12,99,1) 11.2%, rgba(71,11,75,1) 98.6% ) !important; */
+}
+
+
+.RadionHome{
+  /* box-shadow: white 10px 10px 20px !important; */
+}
