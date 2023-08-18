@@ -23,28 +23,7 @@ import { Link } from "react-router-dom";
 import { BiPowerOff } from "react-icons/bi";
 
 const Layout = () => {
-  // const generateRadioStation = (frequency, stationName)=> {
-  //   return { frequency, stationName };
-  // }
-  // const stationData = [
-  //   { frequency: "92.3", stationName: "Radio Wave" },
-  //   { frequency: "101.5", stationName: "Sunset FM" },
-  //   { frequency: "98.7", stationName: "Rock City Radio" },
-  //   { frequency: "105.2", stationName: "Starlight Radio" },
-  //   { frequency: "89.9", stationName: "Smooth Jazz Radio" },
-  //   { frequency: "96.1", stationName: "Energy FM" },
-  //   { frequency: "94.8", stationName: "Classic Hits Radio" },
-  //   { frequency: "103.6", stationName: "Top 40 Radio" },
-  //   { frequency: "107.3", stationName: "Country Vibes FM" },
-  //   { frequency: "93.4", stationName: "Hip Hop Station" }
-  // ];
-  // const generatedStations = [];
-
-  // while (generatedStations.length < 40) {
-  //   const randomIndex = Math.floor(Math.random() * stationData.length);
-  //   const { frequency, stationName } = stationData[randomIndex];
-  //   generatedStations.push(generateRadioStation(frequency, stationName));
-  // }
+ 
   const ChannnelList = [
     { frequency: "92.3", stationName: "Radio Wave" },
     { frequency: "101.5", stationName: "Sunset FM" },
